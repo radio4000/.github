@@ -1,6 +1,6 @@
 # [radio4000](https://radio4000.com) [ r4000, r4k, r4 ]
 
-This github organisation is the new `alpha` version of radio4000 systems (migration to supabase, from dependency firebase).
+This github organisation is the new `prototype` version of radio4000 systems (migration to supabase, from dependency firebase).
 
 The new architecture of repositories (WIP) is currently:
 
