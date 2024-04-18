@@ -8,9 +8,9 @@ The new architecture of repositories is currently, from top to bottom in the sta
 
 ## Sites
 
-- [beta](https://github.com/radio4000/radio4000.github.io) → [beta.radio4000.com](https://beta.radio4000.com/), the cms, using the `<r4-app>` component. Will become the new radio4000.com. Has all the features. 
-- [profiles](https://github.com/radio4000/profiles) → [4000.radio](https://4000.radio), used for showing single radios on subdomains, example https://918.4000.radio
-- [migrate tool](https://github.com/radio4000/migrate-tool) → [migrate.radio4000.com](https://migrate.radio4000.com), an app for migrating a radio and tracks from old R4 to new R4
+- [@radio4000/radio4000.com](https://github.com/radio4000/radio4000.com) → [beta.radio4000.com](https://beta.radio4000.com/), the cms, using the `<r4-app>` component. Will become the new radio4000.com. Has all the features. 
+- [@radio4000/profiles](https://github.com/radio4000/profiles) → [4000.radio](https://4000.radio), used for showing single radios on subdomains, example https://918.4000.radio
+- [@radio4000/migrate tool](https://github.com/radio4000/migrate-tool) → [migrate.radio4000.com](https://migrate.radio4000.com), an app for migrating a radio and tracks from old R4 to new R4
 
 ## Packages
 
