@@ -24,3 +24,7 @@ The new architecture of repositories is currently, from top to bottom in the sta
 - [radio4000/supabase](https://github.com/radio4000/supabase) → the new backend (it uses [supabase](https://supabase.com), which provides us with database, authentication, internal APIs, edge functions, realtime subscriptions, and storage
 - firebase → our original database, still in use on radio4000.com. To be deprecated
 
+## Experiments
+
+- Migrate a classic Radio4000 channel to a room on the Matrix protocol https://gitlab.com/ugrp/protos/radio4000-matrix-migration
+- Migrate a Spotify playlist to the new (beta) Radio4000 https://github.com/oskarrough/spotify-to-youtube
