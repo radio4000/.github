@@ -1,7 +1,6 @@
 # Radio4000
 
-- https://radio4000.com
-- https://beta.radio4000.com → https://github.com/radio4000/radio4000.github.io
+- https://radio4000.com → https://github.com/radio4000/radio4000.com
 - https://github.com/radio4000/components
 - https://github.com/radio4000/sdk
 - https://github.com/radio4000/supabase
