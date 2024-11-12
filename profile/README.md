@@ -1,6 +1,6 @@
 # Radio4000
 
-- https://radio4000.com → https://github.com/radio4000/radio4000.com
+- https://radio4000.com → https://github.com/radio4000/radio4000.com (main app, instance of the `<r4-app/>` component)
 - https://github.com/radio4000/components (design web components)
 - https://github.com/radio4000/sdk (javascript utilities)
 - https://github.com/radio4000/supabase (postgresql configuration)
