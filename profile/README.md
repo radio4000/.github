@@ -1,11 +1,10 @@
 # Radio4000
 
-- https://github.com/radio4000/radio4000.com (main app, instance of the `<r4-app/>` component for https://radio4000.com)
-- https://github.com/radio4000/components (design web components)
-- https://github.com/radio4000/sdk (JavaScript utilities)
-- https://github.com/radio4000/r4 (CLI)
-- https://github.com/radio4000/supabase (postgresql configuration)
-- https://github.com/radio4000/radio4000-player (media player)
+- https://github.com/radio4000/r4-svelte (radio4000 frontend web client)
+- https://github.com/radio4000/sdk (isomorphic javascript software development kit)
+- https://github.com/radio4000/r4 (command line interface)
+- https://github.com/radio4000/supabase (supabase backend postgresql configuration)
+- https://github.com/radio4000/radio4000-player (legacy media player)
 
 Other experiments:
 - https://gitlab.com/ugrp/protos/radio4000-matrix-migration to migrate a Radio4000 channel (v1, v2) into a matrix room
