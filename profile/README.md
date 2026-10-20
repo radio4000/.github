@@ -1,6 +1,6 @@
 # Radio4000
 
-Radio4000 (r4) is a web based media link sharing platform.
+Radio4000 (r4) is a web based public media library system, calm, non-intrusive; share links to your favorite videos, music, talks…
 
 - https://github.com/radio4000/r4-svelte (radio4000 frontend web client)
 - https://github.com/radio4000/sdk (isomorphic javascript software development kit)
